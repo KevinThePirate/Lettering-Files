@@ -32,4 +32,4 @@ It will move the top item to the "Lettering" layer. The second to the "Balloons"
 Thank you for checking out the scripts and tools. If anyone has any feedback, please feel free to reach out and feel free to pick up some of the books I'm lettering with these tool. 
 
 
- #Find comics my books [here.](https://livewirecomics.gumroad.com/)
+ # Find comics my books [here.](https://livewirecomics.gumroad.com/)
