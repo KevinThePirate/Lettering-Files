@@ -1,6 +1,6 @@
 # Kevin M. Smith 2023 Lettering Scripts and Templates
 
-##What is it?
+## What is it?
 This is an Adobe Illustrator 2020 Template file that comes with my layer set up and a compilation of various assets I use to letter my pages. These include balloons, some design elements and some tails. There are also some fonts, but I imagine they won't import with the file.
 
 It also includes some scripts that I use to speed up the formatting of my balloons. A guide for using which is down below. 
