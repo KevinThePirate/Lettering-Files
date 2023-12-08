@@ -5,9 +5,9 @@ This is an Adobe Illustrator 2020 Template file that comes with my layer set up 
 
 It also includes some scripts that I use to speed up the formatting of my balloons. A guide for using which is down below. 
 
-##Guide:
+## Guide:
 
-###SpeechBubbleResize.jsx
+### SpeechBubbleResize.jsx
 This is designed to resize a balloon to properly fit the text. 
 1. Create the general balloon shape you want
 1. Create the text
@@ -23,7 +23,7 @@ From here, you can design the balloon however you want. I am assuming you are us
 The idea is that your tail for the balloon will go inbetween the white fill and the black/stroked balloon.
 Now you can use:
 
-###OrganizeLayers.jsx
+### OrganizeLayers.jsx
 1. Select all 3/4 items (Text, White Balloon and up to two black balloons. No tail.)
 1. Run the script.
 
@@ -32,4 +32,4 @@ It will move the top item to the "Lettering" layer. The second to the "Balloons"
 Thank you for checking out the scripts and tools. If anyone has any feedback, please feel free to reach out and feel free to pick up some of the books I'm lettering with these tool. 
 
 
-#Find comics my books [here.](https://livewirecomics.gumroad.com/)
+ #Find comics my books [here.](https://livewirecomics.gumroad.com/)
